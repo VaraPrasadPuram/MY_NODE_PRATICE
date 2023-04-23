@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "install": "^0.13.0",
+    "loadsh": "^0.0.4"
+  },
+  "name": "my_node_practice",
+  "version": "1.0.0",
+  "main": "1-intro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
